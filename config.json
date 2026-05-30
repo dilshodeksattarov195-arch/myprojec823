@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcync",
+        "uuid": 7509875,
+        "checksum": "kaieo8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
